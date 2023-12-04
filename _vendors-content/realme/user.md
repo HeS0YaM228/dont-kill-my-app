@@ -4,7 +4,7 @@ manufacturer:
 
 ---
 
-Luckily, the system restrictions are all gathered at one place in the system settings in Battery section, and also have some description there.
+Luckily, the system restсrictions are all gathered at one place in the system settings in Battery section, and also have some description there.
 
 <div class="img-block">
   <figure>
